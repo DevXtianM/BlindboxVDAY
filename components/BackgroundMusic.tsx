@@ -5,7 +5,7 @@ import { Volume2, VolumeX } from 'lucide-react';
 
 
 // You can replace this URL with your desired music file later
-const AUDIO_URL = "/audio/MYMP.mp3"; 
+const AUDIO_URL = "public/audio/MYMP.mp3"; 
 
 export interface BackgroundMusicHandle {
   play: () => void;
